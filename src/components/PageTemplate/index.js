@@ -5,7 +5,7 @@ import Info from '../Info'
 
 function PageTemplate({ children }) {
   return (
-    <div>
+    <div className="page">
       <Nav />
       <Info />
       {children}
