@@ -1,0 +1,13 @@
+.link {
+  display: block;
+}
+.link:hover {
+  color: #666;
+}
+.active {
+  color: #885a3c;
+}
+.wrapper {
+  background-color: #ddd;
+  padding: 20px;
+}
